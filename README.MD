@@ -1,38 +1,3 @@
-# Contributing to the Timetable Server Project
-
-A warm welcome to you! Thank you for considering a contribution to the Timetable Server. Every contribution, from fixing a typo to implementing a new API endpoint, is highly valued.
-
-This document provides a set of guidelines to help you contribute effectively. Following them ensures that we can review and merge your work smoothly.
-
----
-
-## Code of Conduct
-
-All participants in this project are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please ensure you are familiar with its contents. By participating, you agree to uphold this code.
-
----
-
-## How Can I Contribute?
-
-### 🐛 Reporting Bugs
-
-If you encounter a bug, please check the [Issues tab](https://github.com/sivakumar232/timetable-server/issues) to see if it has already been reported.
-
-If not, please [open a new issue](https://github.com/sivakumar232/timetable-server/issues/new). In your report, please include:
-- A clear, descriptive title.
-- Steps to reproduce the bug.
-- The expected outcome.
-- The actual outcome, including any error messages and tracebacks.
-
-### ✨ Suggesting Enhancements
-
-Have an idea for a new feature or an improvement to the algorithm? We'd love to hear it! Please open an issue first to discuss your idea. This helps us align on the scope and implementation before you start writing code.
-
----
-
-## 🚀 Your First Code Contribution
-
-Ready to write some code? Here’s how to set up your environment and submit a pull request.
 
 ### Setting Up Your Development Environment
 
@@ -100,3 +65,4 @@ Ready to write some code? Here’s how to set up your environment and submit a p
     - Click "Create pull request".
 
 The maintainers will review your submission and provide feedback. Thank you for your contribution!
+
