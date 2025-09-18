@@ -1,0 +1,4 @@
+id,name,department,designation,specializations,courses_can_teach,max_hours_per_week,unavailable_slots
+F01,Dr. Alan Turing,Computer Science,Professor,"[""Algorithms""]","[""CS101""]",20,[]
+F02,Dr. Ada Lovelace,Mathematics,Associate Professor,"[""Calculus""]","[""MATH101""]",20,[]
+F03,Prof. Grace Hopper,English,Assistant Professor,"[""Languages""]","[""ENG101""]",20,[]

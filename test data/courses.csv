@@ -1,0 +1,4 @@
+id,name,code,credits,course_type,hours_per_week,department,semester,faculty_id,requires_lab,requires_smart_room,is_interdisciplinary,max_students
+CS101,Intro to Python,CS101,3,core,3,Computer Science,1,F01,True,False,False,50
+MATH101,Basic Algebra,MATH101,3,core,3,Mathematics,1,F02,False,False,False,50
+ENG101,Communication Skills,ENG101,2,ability_enhancement,2,English,1,F03,False,True,False,50

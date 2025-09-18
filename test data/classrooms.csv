@@ -1,0 +1,4 @@
+id,name,capacity,room_type,department,is_smart_room
+R101,Lecture Hall 1,60,lecture,General,False
+R102,Smart Room 1,60,smart_classroom,General,True
+LAB1,CS Lab,60,lab,Computer Science,False

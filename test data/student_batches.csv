@@ -1,0 +1,2 @@
+id,name,department,semester,student_count,core_courses,elective_courses,skill_courses,multidisciplinary_courses,ability_enhancement_courses
+CS1A,CS First Year Section A,Computer Science,1,50,"[""CS101"", ""MATH101""]",[],[],[],"[""ENG101""]"

@@ -1,0 +1,6 @@
+id,name,department,semester,student_count,core_courses,elective_courses,skill_courses,multidisciplinary_courses,preferred_morning_hours,max_hours_per_day
+B001,Computer Science Sem5 Sec1,Computer Science,5,60,"[""C007"", ""C014""]","[""C002""]",[],[],False,7
+B002,Mechanical Sem1 Sec2,Mechanical,1,56,"[""C007"", ""C014""]","[""C003""]",[],[],False,6
+B003,Mechanical Sem6 Sec3,Mechanical,6,66,"[""C007"", ""C014""]","[""C002""]",[],[],True,6
+B004,Computer Science Sem5 Sec4,Computer Science,5,55,"[""C014"", ""C007""]","[""C002""]",[],[],False,6
+B005,Electronics Sem3 Sec5,Electronics,3,62,"[""C014"", ""C007""]","[""C002""]",[],[],True,6
