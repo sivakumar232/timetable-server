@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log
+.env
+
+# React build
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
