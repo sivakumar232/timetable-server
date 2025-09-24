@@ -1,0 +1,57 @@
+id,name,capacity,room_type,department
+C101,C101,70,smart_classroom,CSE
+C102,C102,70,smart_classroom,CSE
+C103,C103,70,lecture,CSE
+C104,C104,70,lecture,CSE
+CAB101,CAB101,60,lecture,CSE
+CAB102,CAB102,60,lecture,CSE
+CAB103,CAB103,60,lecture,CSE
+B101,B101,60,lecture,CSE
+B102,B102,60,lecture,CSE
+B103,B103,60,lecture,CSE
+B104,B104,60,lecture,CSE
+LAB-G01,Computer Lab 1,40,computer_lab,CSE
+LAB-G02,Computer Lab 2,40,computer_lab,CSE
+LAB-G03,Computer Lab 3,40,computer_lab,CSE
+LAB-G04,Computer Lab 4,40,computer_lab,CSE
+LAB-G05,Computer Lab 5,40,computer_lab,CSE
+LAB-G06,Computer Lab 6,40,computer_lab,CSE
+LAB-G07,Hardware Lab,30,lab,CSE
+LAB-G08,Project Lab,30,lab,CSE
+C201,C201,70,smart_classroom,CSE
+C202,C202,70,smart_classroom,CSE
+C203,C203,70,lecture,CSE
+C204,C204,70,lecture,CSE
+CAB201,CAB201,60,lecture,CSE
+CAB202,CAB202,60,lecture,CSE
+CAB203,CAB203,60,lecture,CSE
+B201,B201,60,lecture,CSE
+B202,B202,60,lecture,CSE
+B203,B203,60,lecture,CSE
+B204,B204,60,lecture,CSE
+C301,C301,70,smart_classroom,CSE
+C302,C302,70,smart_classroom,CSE
+C303,C303,70,lecture,CSE
+C304,C304,70,lecture,CSE
+CAB301,CAB301,60,lecture,CSE
+CAB302,CAB302,60,lecture,CSE
+CAB303,CAB303,60,lecture,CSE
+B301,B301,60,lecture,CSE
+B302,B302,60,lecture,CSE
+B303,B303,60,lecture,CSE
+B304,B304,60,lecture,CSE
+SEM-301,Seminar Hall A,150,seminar,CSE
+C401,C401,70,smart_classroom,CSE
+C402,C402,70,lecture,CSE
+C403,C403,70,lecture,CSE
+C404,C404,70,lecture,CSE
+CAB401,CAB401,60,lecture,CSE
+CAB402,CAB402,60,lecture,CSE
+CAB403,CAB403,60,lecture,CSE
+B401,B401,60,lecture,CSE
+B402,B402,60,lecture,CSE
+B403,B403,60,lecture,CSE
+B404,B404,60,lecture,CSE
+SEM-401,Seminar Hall B,120,seminar,CSE
+IOT-LAB-401,IoT Laboratory,35,lab,CSE
+LAB-401,AI/ML Lab,40,computer_lab,CSE

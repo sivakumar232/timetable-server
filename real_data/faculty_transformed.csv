@@ -1,0 +1,10 @@
+id,name,department,designation,specializations,courses_can_teach,max_hours_per_week,max_hours_per_day,preferred_time,unavailable_slots,research_slots,is_visiting,workload_preference
+1,Dr P Ravi Kiran Varma,CSE,Professor,[Deep Learning],[B23AM3101; B23AM3110],8,4,any,[],[],False,1.0
+2,Dr. Bh V S Rama Krishnam Raju,CSE,Professor,[Natural Language Processing],[B23AM3103; B23AM3111],8,4,any,[],[],False,1.0
+3,Dr. M S V S Bhadri Raju,CSE,Professor,[Tinkering Lab],[B23AM3102; B23EC31M2],8,4,any,[],[],False,1.0
+4,Dr. K V Krishnam Raju,CSE,Professor,[Deep Learning Lab],[B23AM3112; B23AM3113; B23ID31M4],8,4,any,[],[],False,1.0
+5,Dr. G Mahesh,CSE,Professor,[Computer Networks],[#PE-I; B23AM31H1],8,4,any,[],[],False,1.0
+6,Dr. V Chandra Sekhar,CSE,Professor,[Full Stack Development -2],[#OE-I; B23MG31M1],8,4,any,[],[],False,1.0
+7,Dr. N K Kameswara Rao,CSE,Associate Professor,[Employability Skills],[B23AM31H2; B23DS31M3],16,4,any,[],[],False,1.0
+8,Dr. R N V Jagan Mohan,CSE,Associate Professor,[Professional Elective-I],[B23AM3114; B23MC3101],16,4,any,[],[],False,1.0
+9,Dr. G N V G Sirisha,CSE,Associate Professor,[deep learning],[B23AM31H3],16,4,any,[],[],False,1.0

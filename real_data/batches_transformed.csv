@@ -1,0 +1,2 @@
+id,name,department,semester,student_count,core_courses,elective_courses,skill_courses,multidisciplinary_courses,preferred_morning_hours,max_hours_per_day
+AIML_S5,AI & ML Semester 5,Artificial Intelligence and Machine Learning,5,16,[B23AM3101; B23AM3102; B23AM3103],[],[],[],True,7

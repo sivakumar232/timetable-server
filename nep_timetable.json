@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-21T22:17:08.454136",
+    "nep_2020_compliant": true,
+    "total_batches": 1,
+    "total_faculty": 1,
+    "total_courses": 2,
+    "working_days": 5,
+    "periods_per_day": 5,
+    "time_slots": [
+      "09:00-10:30",
+      "10:30-12:00",
+      "12:00-01:30",
+      "01:30-03:00",
+      "03:00-04:30"
+    ],
+    "college_hours": "9:00 - 4:30"
+  },
+  "departments": [
+    "CSE",
+    "AIML"
+  ],
+  "timetables": {
+    "AI & ML Semester 5": {
+      "batch_info": {
+        "name": "AI & ML Semester 5",
+        "department": "AIML",
+        "semester": 5,
+        "student_count": 16
+      },
+      "weekly_schedule": [
+        {
+          "day": "Monday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "type": "free"
+            },
+            {
+              "time": "10:30-12:00",
+              "type": "free"
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23AM3110",
+                "name": "Deep Learning Lab",
+                "code": "B23AM3110",
+                "type": "core",
+                "credits": 0,
+                "department": "AIML",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-401",
+                "name": "AI/ML Lab",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "lab_session": {
+                "part": 1,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23AM3110",
+                "name": "Deep Learning Lab",
+                "code": "B23AM3110",
+                "type": "core",
+                "credits": 0,
+                "department": "AIML",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-401",
+                "name": "AI/ML Lab",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "lab_session": {
+                "part": 2,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "B23AM3101",
+                "name": "Deep Learning",
+                "code": "B23AM3101",
+                "type": "core",
+                "credits": 3,
+                "department": "AIML",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-401",
+                "name": "AI/ML Lab",
+                "type": "computer_lab",
+                "capacity": 40
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3101",
+                "name": "Deep Learning",
+                "code": "B23AM3101",
+                "type": "core",
+                "credits": 3,
+                "department": "AIML",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-401",
+                "name": "AI/ML Lab",
+                "type": "computer_lab",
+                "capacity": 40
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "type": "free"
+            },
+            {
+              "time": "03:00-04:30",
+              "type": "free"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "type": "free"
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3101",
+                "name": "Deep Learning",
+                "code": "B23AM3101",
+                "type": "core",
+                "credits": 3,
+                "department": "AIML",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-401",
+                "name": "AI/ML Lab",
+                "type": "computer_lab",
+                "capacity": 40
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "type": "free"
+            },
+            {
+              "time": "03:00-04:30",
+              "type": "free"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "type": "free"
+            },
+            {
+              "time": "10:30-12:00",
+              "type": "free"
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "type": "free"
+            },
+            {
+              "time": "03:00-04:30",
+              "type": "free"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "type": "free"
+            },
+            {
+              "time": "10:30-12:00",
+              "type": "free"
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "type": "free"
+            },
+            {
+              "time": "03:00-04:30",
+              "type": "free"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "analytics": {
+    "fitness_score": 990.0,
+    "constraint_violations": {
+      "unassigned_labs": 0,
+      "lab_continuity_issues": 0,
+      "faculty_conflicts": 0,
+      "classroom_conflicts": 0,
+      "lunch_violations": 0
+    },
+    "lab_statistics": {
+      "total_lab_sessions": 2,
+      "properly_scheduled_labs": 1,
+      "lab_rooms_utilized": 1,
+      "afternoon_lab_sessions": 2
+    },
+    "course_distribution": {
+      "core": 5
+    },
+    "faculty_utilization": {},
+    "classroom_utilization": {}
+  }
+}

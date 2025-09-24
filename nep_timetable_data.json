@@ -1,0 +1,2342 @@
+{
+  "courses": [
+    {
+      "id": "B23AM3101",
+      "name": "Deep Learning",
+      "code": "B23AM3101",
+      "credits": 3.0,
+      "course_type": "core",
+      "hours_per_week": 3,
+      "department": "AIML",
+      "semester": 5,
+      "faculty_id": "F1",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23AM3102",
+      "name": "Computer Networks",
+      "code": "B23AM3102",
+      "credits": 3.0,
+      "course_type": "core",
+      "hours_per_week": 3,
+      "department": "AIML",
+      "semester": 5,
+      "faculty_id": "F3",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23AM3103",
+      "name": "Natural Language Processing",
+      "code": "B23AM3103",
+      "credits": 3.0,
+      "course_type": "core",
+      "hours_per_week": 3,
+      "department": "AIML",
+      "semester": 5,
+      "faculty_id": "F2",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "#PE-I",
+      "name": "Professional Elective-I",
+      "code": "#PE-I",
+      "credits": 3.0,
+      "course_type": "elective",
+      "hours_per_week": 3,
+      "department": "GENERAL",
+      "semester": 5,
+      "faculty_id": "F5",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "#OE-I",
+      "name": "Open Elective-I",
+      "code": "#OE-I",
+      "credits": 3.0,
+      "course_type": "elective",
+      "hours_per_week": 3,
+      "department": "GENERAL",
+      "semester": 5,
+      "faculty_id": "F6",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23AM3110",
+      "name": "Deep Learning Lab",
+      "code": "B23AM3110",
+      "credits": 0.0,
+      "course_type": "core",
+      "hours_per_week": 3,
+      "department": "AIML",
+      "semester": 5,
+      "faculty_id": "F1",
+      "requires_lab": true,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23AM3111",
+      "name": "Natural Language Processing Lab",
+      "code": "B23AM3111",
+      "credits": 0.0,
+      "course_type": "skill_enhancement",
+      "hours_per_week": 3,
+      "department": "AIML",
+      "semester": 5,
+      "faculty_id": "F2",
+      "requires_lab": true,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23AM3112",
+      "name": "Full Stack Development -2",
+      "code": "B23AM3112",
+      "credits": 0.0,
+      "course_type": "core",
+      "hours_per_week": 3,
+      "department": "AIML",
+      "semester": 5,
+      "faculty_id": "F4",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23AM3113",
+      "name": "Tinkering Lab (UI Design using Flutter)",
+      "code": "B23AM3113",
+      "credits": 0.0,
+      "course_type": "skill_enhancement",
+      "hours_per_week": 3,
+      "department": "AIML",
+      "semester": 5,
+      "faculty_id": "F4",
+      "requires_lab": true,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23AM3114",
+      "name": "Evaluation of Community Service Internship",
+      "code": "B23AM3114",
+      "credits": 1.5,
+      "course_type": "project",
+      "hours_per_week": 3,
+      "department": "AIML",
+      "semester": 5,
+      "faculty_id": "F8",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23MC3101",
+      "name": "Employability Skills",
+      "code": "B23MC3101",
+      "credits": 0.0,
+      "course_type": "core",
+      "hours_per_week": 3,
+      "department": "GENERAL",
+      "semester": 5,
+      "faculty_id": "F8",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23AM31H1",
+      "name": "Advanced Algorithms",
+      "code": "B23AM31H1",
+      "credits": 4.0,
+      "course_type": "honors",
+      "hours_per_week": 4,
+      "department": "AIML",
+      "semester": 5,
+      "faculty_id": "F5",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23AM31H2",
+      "name": "Reinforcement Learning",
+      "code": "B23AM31H2",
+      "credits": 4.0,
+      "course_type": "honors",
+      "hours_per_week": 4,
+      "department": "AIML",
+      "semester": 5,
+      "faculty_id": "F7",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23AM31H3",
+      "name": "Computer Vision",
+      "code": "B23AM31H3",
+      "credits": 4.0,
+      "course_type": "honors",
+      "hours_per_week": 4,
+      "department": "AIML",
+      "semester": 5,
+      "faculty_id": "F9",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23MG31M1",
+      "name": "Introduction to Financial Analysis",
+      "code": "B23MG31M1",
+      "credits": 3.0,
+      "course_type": "minor",
+      "hours_per_week": 3,
+      "department": "Management",
+      "semester": 5,
+      "faculty_id": "F6",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23EC31M2",
+      "name": "Introduction to IoT",
+      "code": "B23EC31M2",
+      "credits": 3.0,
+      "course_type": "minor",
+      "hours_per_week": 3,
+      "department": "ECE",
+      "semester": 5,
+      "faculty_id": "F3",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23DS31M3",
+      "name": "Data Analytics and Visualization",
+      "code": "B23DS31M3",
+      "credits": 3.0,
+      "course_type": "minor",
+      "hours_per_week": 3,
+      "department": "Data Science",
+      "semester": 5,
+      "faculty_id": "F7",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    },
+    {
+      "id": "B23ID31M4",
+      "name": "UI/UX Fundamentals",
+      "code": "B23ID31M4",
+      "credits": 3.0,
+      "course_type": "minor",
+      "hours_per_week": 3,
+      "department": "Design",
+      "semester": 5,
+      "faculty_id": "F4",
+      "requires_lab": false,
+      "requires_smart_room": false,
+      "max_students": 60
+    }
+  ],
+  "faculty": [
+    {
+      "id": "F1",
+      "name": "Dr P Ravi Kiran Varma",
+      "department": "CSE",
+      "designation": "Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F2",
+      "name": "Dr. Bh V S Rama Krishnam Raju",
+      "department": "CSE",
+      "designation": "Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F3",
+      "name": "Dr. M S V S Bhadri Raju",
+      "department": "CSE",
+      "designation": "Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F4",
+      "name": "Dr. K V Krishnam Raju",
+      "department": "CSE",
+      "designation": "Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F5",
+      "name": "Dr. G Mahesh",
+      "department": "CSE",
+      "designation": "Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F6",
+      "name": "Dr. V Chandra Sekhar",
+      "department": "CSE",
+      "designation": "Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F7",
+      "name": "Dr. N K Kameswara Rao",
+      "department": "CSE",
+      "designation": "Associate Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F8",
+      "name": "Dr. R N V Jagan Mohan",
+      "department": "CSE",
+      "designation": "Associate Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F9",
+      "name": "Dr. G N V G Sirisha",
+      "department": "CSE",
+      "designation": "Associate Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F10",
+      "name": "Dr. P Bharat Siva Varma",
+      "department": "CSE",
+      "designation": "Associate Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F11",
+      "name": "Dr. M Srihari Varma",
+      "department": "CSE",
+      "designation": "Associate Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F12",
+      "name": "Dr. V MNSSVKR Gupta",
+      "department": "CSE",
+      "designation": "Associate Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F13",
+      "name": "Dr. K Aruna Kumari",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F14",
+      "name": "Dr. K.V. Nagendra",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F15",
+      "name": "Smt. V Priya Darshini",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F16",
+      "name": "Dr. J Rajani Kanth",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F17",
+      "name": "Smt. P Neelima",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F18",
+      "name": "Sri. K V S S R Murthy",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F19",
+      "name": "Dr. R Shiva Shankar",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F20",
+      "name": "Sri. T V K P Prasad",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F21",
+      "name": "Smt. D Hema Latha",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F22",
+      "name": "Sri. B N V Narasimha Raju",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F23",
+      "name": "Smt. K. Sravani",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F24",
+      "name": "Sri. V Dilip Kumar",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F25",
+      "name": "Smt. M Jeevana Sujitha",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F26",
+      "name": "Smt. A L Lavanya",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F27",
+      "name": "Sri. T Srinivasa Rao",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F28",
+      "name": "Sri. Ch Vinod Varma",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F29",
+      "name": "Sri. L V Srinivas",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F30",
+      "name": "Smt. V Anjani Kranthi",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F31",
+      "name": "Miss. M Janaki Devi",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F32",
+      "name": "Sri. Ch Rami Naidu",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F33",
+      "name": "Smt. P Saroja",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F34",
+      "name": "Smt. K V N Valli",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F35",
+      "name": "Smt. P Jahnavi",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F36",
+      "name": "Smt. B Mounika",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F37",
+      "name": "Dr. D N S B Kavitha",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F38",
+      "name": "Sri. D Sri Phanindra Varma",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F39",
+      "name": "Sri. M Kishore Varma",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F40",
+      "name": "Sri. K D V Pavan Kumar Varma",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F41",
+      "name": "Smt. K Durga Bhavani",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F42",
+      "name": "Sri. K Hari Krishna",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F43",
+      "name": "Sri. K Gopala Varma",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F44",
+      "name": "Smt. A Neelima",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F45",
+      "name": "Smt. M Sindhuri Suseela",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F46",
+      "name": "Sri. Ch Raghuram",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F47",
+      "name": "Dr. Ch Swaroop",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F48",
+      "name": "Sri. D V S R K Raju",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F49",
+      "name": "Miss. Ch Suma",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F50",
+      "name": "Smt. R Leela Jyothi",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F51",
+      "name": "Sri. S Suresh Kumar",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F52",
+      "name": "Dr. L Divya",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F53",
+      "name": "Sri. K P S Rama Krishna",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F54",
+      "name": "Miss. G Bhanu Priya",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F55",
+      "name": "Miss. L Padma",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F56",
+      "name": "Sri. M V V S Subrahmanyam",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F57",
+      "name": "Smt. K.V.Mounika",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F58",
+      "name": "Sri. K David Raju",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F59",
+      "name": "Sri. J V Rama Kumar",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F60",
+      "name": "Sri. D Srikar",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F61",
+      "name": "Sri. G Padma Rao",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F62",
+      "name": "Smt. T Rama Tulasi",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F63",
+      "name": "Smt. K Raja Rajeswari",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F64",
+      "name": "Smt. P Sandhya",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F65",
+      "name": "Smt. B Rekha Madhavi",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F66",
+      "name": "Smt. D Vasavi",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F67",
+      "name": "Sri. B Radha Krishna",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F68",
+      "name": "Smt. K Amrutha",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F69",
+      "name": "Miss. M Rama Rajeswari",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F70",
+      "name": "Smt. M Sahaja",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F71",
+      "name": "Smt. M. Prasanna Kumari",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F72",
+      "name": "Sri. V. Ajay Kumar",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F73",
+      "name": "Sri. P. Durga Prasad",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F74",
+      "name": "Sri. Shaik Yacoob",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F75",
+      "name": "Smt. G. Prasanthi",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F76",
+      "name": "Sri. MVV Krishna",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F77",
+      "name": "Smt. D.Haritha Priya",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F78",
+      "name": "Smt. G. Anusha",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F79",
+      "name": "Smt. D. Sravani",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F80",
+      "name": "Smt. P. Lavanya",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F81",
+      "name": "Smt. N. Naga Soudhamani",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F82",
+      "name": "Miss. Bh. Nandita Lakshmi",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    },
+    {
+      "id": "F83",
+      "name": "Smt. A. Hima Bala Padmini",
+      "department": "CSE",
+      "designation": "Assistant Professor",
+      "specializations": [
+        "Computer Science"
+      ],
+      "courses_can_teach": [],
+      "max_hours_per_day": 6,
+      "max_hours_per_week": 12,
+      "preferred_time": "any",
+      "workload_preference": 1.0
+    }
+  ],
+  "classrooms": [
+    {
+      "id": "C101",
+      "name": "C101",
+      "capacity": 70,
+      "room_type": "smart_classroom",
+      "department": "CSE",
+      "equipment": [
+        "smart_board"
+      ],
+      "is_smart_room": true,
+      "is_ac": true,
+      "has_projector": true
+    },
+    {
+      "id": "C102",
+      "name": "C102",
+      "capacity": 70,
+      "room_type": "smart_classroom",
+      "department": "CSE",
+      "equipment": [
+        "smart_board"
+      ],
+      "is_smart_room": true,
+      "is_ac": true,
+      "has_projector": true
+    },
+    {
+      "id": "C103",
+      "name": "C103",
+      "capacity": 70,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "C104",
+      "name": "C104",
+      "capacity": 70,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "CAB101",
+      "name": "CAB101",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "CAB102",
+      "name": "CAB102",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "CAB103",
+      "name": "CAB103",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B101",
+      "name": "B101",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B102",
+      "name": "B102",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B103",
+      "name": "B103",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B104",
+      "name": "B104",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "LAB-G01",
+      "name": "Computer Lab 1",
+      "capacity": 40,
+      "room_type": "computer_lab",
+      "department": "CSE",
+      "equipment": [
+        "computers"
+      ],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "LAB-G02",
+      "name": "Computer Lab 2",
+      "capacity": 40,
+      "room_type": "computer_lab",
+      "department": "CSE",
+      "equipment": [
+        "computers"
+      ],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "LAB-G03",
+      "name": "Computer Lab 3",
+      "capacity": 40,
+      "room_type": "computer_lab",
+      "department": "CSE",
+      "equipment": [
+        "computers"
+      ],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "LAB-G04",
+      "name": "Computer Lab 4",
+      "capacity": 40,
+      "room_type": "computer_lab",
+      "department": "CSE",
+      "equipment": [
+        "computers"
+      ],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "LAB-G05",
+      "name": "Computer Lab 5",
+      "capacity": 40,
+      "room_type": "computer_lab",
+      "department": "CSE",
+      "equipment": [
+        "computers"
+      ],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "LAB-G06",
+      "name": "Computer Lab 6",
+      "capacity": 40,
+      "room_type": "computer_lab",
+      "department": "CSE",
+      "equipment": [
+        "computers"
+      ],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "LAB-G07",
+      "name": "Hardware Lab",
+      "capacity": 30,
+      "room_type": "lab",
+      "department": "CSE",
+      "equipment": [
+        "computers"
+      ],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "LAB-G08",
+      "name": "Project Lab",
+      "capacity": 30,
+      "room_type": "lab",
+      "department": "CSE",
+      "equipment": [
+        "computers"
+      ],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "C201",
+      "name": "C201",
+      "capacity": 70,
+      "room_type": "smart_classroom",
+      "department": "CSE",
+      "equipment": [
+        "smart_board"
+      ],
+      "is_smart_room": true,
+      "is_ac": true,
+      "has_projector": true
+    },
+    {
+      "id": "C202",
+      "name": "C202",
+      "capacity": 70,
+      "room_type": "smart_classroom",
+      "department": "CSE",
+      "equipment": [
+        "smart_board"
+      ],
+      "is_smart_room": true,
+      "is_ac": true,
+      "has_projector": true
+    },
+    {
+      "id": "C203",
+      "name": "C203",
+      "capacity": 70,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "C204",
+      "name": "C204",
+      "capacity": 70,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "CAB201",
+      "name": "CAB201",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "CAB202",
+      "name": "CAB202",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "CAB203",
+      "name": "CAB203",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B201",
+      "name": "B201",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B202",
+      "name": "B202",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B203",
+      "name": "B203",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B204",
+      "name": "B204",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "C301",
+      "name": "C301",
+      "capacity": 70,
+      "room_type": "smart_classroom",
+      "department": "CSE",
+      "equipment": [
+        "smart_board"
+      ],
+      "is_smart_room": true,
+      "is_ac": true,
+      "has_projector": true
+    },
+    {
+      "id": "C302",
+      "name": "C302",
+      "capacity": 70,
+      "room_type": "smart_classroom",
+      "department": "CSE",
+      "equipment": [
+        "smart_board"
+      ],
+      "is_smart_room": true,
+      "is_ac": true,
+      "has_projector": true
+    },
+    {
+      "id": "C303",
+      "name": "C303",
+      "capacity": 70,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "C304",
+      "name": "C304",
+      "capacity": 70,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "CAB301",
+      "name": "CAB301",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "CAB302",
+      "name": "CAB302",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "CAB303",
+      "name": "CAB303",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B301",
+      "name": "B301",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B302",
+      "name": "B302",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B303",
+      "name": "B303",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B304",
+      "name": "B304",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "SEM-301",
+      "name": "Seminar Hall A",
+      "capacity": 150,
+      "room_type": "seminar",
+      "department": "CSE",
+      "equipment": [
+        "audio_system"
+      ],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": true
+    },
+    {
+      "id": "C401",
+      "name": "C401",
+      "capacity": 70,
+      "room_type": "smart_classroom",
+      "department": "CSE",
+      "equipment": [
+        "smart_board"
+      ],
+      "is_smart_room": true,
+      "is_ac": true,
+      "has_projector": true
+    },
+    {
+      "id": "C402",
+      "name": "C402",
+      "capacity": 70,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "C403",
+      "name": "C403",
+      "capacity": 70,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "C404",
+      "name": "C404",
+      "capacity": 70,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "CAB401",
+      "name": "CAB401",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "CAB402",
+      "name": "CAB402",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "CAB403",
+      "name": "CAB403",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B401",
+      "name": "B401",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B402",
+      "name": "B402",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B403",
+      "name": "B403",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "B404",
+      "name": "B404",
+      "capacity": 60,
+      "room_type": "lecture",
+      "department": "CSE",
+      "equipment": [],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "SEM-401",
+      "name": "Seminar Hall B",
+      "capacity": 120,
+      "room_type": "seminar",
+      "department": "CSE",
+      "equipment": [
+        "audio_system"
+      ],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": true
+    },
+    {
+      "id": "IOT-LAB-401",
+      "name": "IoT Laboratory",
+      "capacity": 35,
+      "room_type": "lab",
+      "department": "CSE",
+      "equipment": [
+        "computers"
+      ],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    },
+    {
+      "id": "LAB-401",
+      "name": "AI/ML Lab",
+      "capacity": 40,
+      "room_type": "computer_lab",
+      "department": "CSE",
+      "equipment": [
+        "computers"
+      ],
+      "is_smart_room": false,
+      "is_ac": true,
+      "has_projector": false
+    }
+  ],
+  "student_batches": [
+    {
+      "id": "B1",
+      "name": "Batch 1 (50 students)",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 50,
+      "core_courses": [
+        "[\"Computer Networks\"",
+        "\"Database Management Systems\"",
+        "\"AI Tools and Techniques\"]"
+      ],
+      "elective_courses": [
+        "[\"Foundation of Data Science\"]"
+      ],
+      "skill_courses": [
+        "[\"Advanced Python Programming\"",
+        "\"Full Stack Development Lab\"]"
+      ],
+      "multidisciplinary_courses": [
+        "[]"
+      ],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    },
+    {
+      "id": "B2",
+      "name": "Batch 2 (50 students)",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 50,
+      "core_courses": [
+        "[\"Computer Networks\"",
+        "\"Database Management Systems\"",
+        "\"AI Tools and Techniques\"]"
+      ],
+      "elective_courses": [
+        "[\"Mathematics for Machine Learning\"]"
+      ],
+      "skill_courses": [
+        "[\"Advanced Python Programming\"",
+        "\"Full Stack Development Lab\"]"
+      ],
+      "multidisciplinary_courses": [
+        "[]"
+      ],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    },
+    {
+      "id": "B3",
+      "name": "Batch 3 (50 students)",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 50,
+      "core_courses": [
+        "[\"Computer Networks\"",
+        "\"Database Management Systems\"",
+        "\"AI Tools and Techniques\"]"
+      ],
+      "elective_courses": [
+        "[\"Applied Operations Research\"]"
+      ],
+      "skill_courses": [
+        "[\"Advanced Python Programming\"",
+        "\"Full Stack Development Lab\"]"
+      ],
+      "multidisciplinary_courses": [
+        "[]"
+      ],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    },
+    {
+      "id": "B4",
+      "name": "Batch 4 (50 students)",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 50,
+      "core_courses": [
+        "[\"Computer Networks\"",
+        "\"Database Management Systems\"",
+        "\"AI Tools and Techniques\"]"
+      ],
+      "elective_courses": [
+        "[\"Renewable Energy Sources\"]"
+      ],
+      "skill_courses": [
+        "[\"Advanced Python Programming\"",
+        "\"Full Stack Development Lab\"]"
+      ],
+      "multidisciplinary_courses": [
+        "[]"
+      ],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    },
+    {
+      "id": "B5",
+      "name": "Batch 5 (50 students)",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 50,
+      "core_courses": [
+        "[\"Computer Networks\"",
+        "\"Database Management Systems\"",
+        "\"AI Tools and Techniques\"]"
+      ],
+      "elective_courses": [
+        "[\"Electronic Devices and Circuits\"]"
+      ],
+      "skill_courses": [
+        "[\"Advanced Python Programming\"",
+        "\"Full Stack Development Lab\"]"
+      ],
+      "multidisciplinary_courses": [
+        "[]"
+      ],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    },
+    {
+      "id": "B6",
+      "name": "Batch 6 (50 students)",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 50,
+      "core_courses": [
+        "[\"Computer Networks\"",
+        "\"Database Management Systems\"",
+        "\"AI Tools and Techniques\"]"
+      ],
+      "elective_courses": [
+        "[\"Foundation of Data Science\"]"
+      ],
+      "skill_courses": [
+        "[\"Advanced Python Programming\"",
+        "\"Full Stack Development Lab\"]"
+      ],
+      "multidisciplinary_courses": [
+        "[]"
+      ],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    },
+    {
+      "id": "B7",
+      "name": "Batch 7 (50 students)",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 50,
+      "core_courses": [
+        "[\"Computer Networks\"",
+        "\"Database Management Systems\"",
+        "\"AI Tools and Techniques\"]"
+      ],
+      "elective_courses": [
+        "[\"AI Tools and Techniques\"]"
+      ],
+      "skill_courses": [
+        "[\"Advanced Python Programming\"",
+        "\"Full Stack Development Lab\"]"
+      ],
+      "multidisciplinary_courses": [
+        "[]"
+      ],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    },
+    {
+      "id": "B8",
+      "name": "Batch 8 (50 students)",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 50,
+      "core_courses": [
+        "[\"Computer Networks\"",
+        "\"Database Management Systems\"",
+        "\"AI Tools and Techniques\"]"
+      ],
+      "elective_courses": [
+        "[\"Remote Sensing & GIS\"]"
+      ],
+      "skill_courses": [
+        "[\"Advanced Python Programming\"",
+        "\"Full Stack Development Lab\"]"
+      ],
+      "multidisciplinary_courses": [
+        "[]"
+      ],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    },
+    {
+      "id": "B9",
+      "name": "Batch 9 (50 students)",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 50,
+      "core_courses": [
+        "[\"Computer Networks\"",
+        "\"Database Management Systems\"",
+        "\"AI Tools and Techniques\"]"
+      ],
+      "elective_courses": [
+        "[\"AI Tools and Techniques\"]"
+      ],
+      "skill_courses": [
+        "[\"Advanced Python Programming\"",
+        "\"Full Stack Development Lab\"]"
+      ],
+      "multidisciplinary_courses": [
+        "[]"
+      ],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    },
+    {
+      "id": "B10",
+      "name": "Batch 10 (50 students)",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 50,
+      "core_courses": [
+        "[\"Computer Networks\"",
+        "\"Database Management Systems\"",
+        "\"AI Tools and Techniques\"]"
+      ],
+      "elective_courses": [
+        "[\"Sustainable Energy Technologies\"]"
+      ],
+      "skill_courses": [
+        "[\"Advanced Python Programming\"",
+        "\"Full Stack Development Lab\"]"
+      ],
+      "multidisciplinary_courses": [
+        "[]"
+      ],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    },
+    {
+      "id": "B11",
+      "name": "Batch 11 (50 students)",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 50,
+      "core_courses": [
+        "[\"Computer Networks\"",
+        "\"Database Management Systems\"",
+        "\"AI Tools and Techniques\"]"
+      ],
+      "elective_courses": [
+        "[\"Principles of Control Systems\"]"
+      ],
+      "skill_courses": [
+        "[\"Advanced Python Programming\"",
+        "\"Full Stack Development Lab\"]"
+      ],
+      "multidisciplinary_courses": [
+        "[]"
+      ],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+id,name,department,designation,workload,Subject Allocated
+1,Dr P Ravi Kiran Varma,CSE,Professor,8,Deep Learning
+2,Dr. Bh V S Rama Krishnam Raju,CSE,Professor,8,Natural Language Processing
+3,Dr. M S V S Bhadri Raju,CSE,Professor,8,Tinkering Lab
+4,Dr. K V Krishnam Raju,CSE,Professor,8,Deep Learning Lab
+5,Dr. G Mahesh,CSE,Professor,8,Computer Networks
+6,Dr. V Chandra Sekhar,CSE,Professor,8,Full Stack Development -2
+7,Dr. N K Kameswara Rao,CSE,Associate Professor,16,Employability Skills
+8,Dr. R N V Jagan Mohan,CSE,Associate Professor,16,Professional Elective-I
+9,Dr. G N V G Sirisha,CSE,Associate Professor,16,deep learning
+10,Dr. P Bharat Siva Varma,CSE,Associate Professor,16,Evaluation of Community Service Internship
+11,Dr. M Srihari Varma,CSE,Associate Professor,16,Natural Language Processing Lab
+12,Dr. V MNSSVKR Gupta,CSE,Associate Professor,16,Deep Learning
+13,Dr. K Aruna Kumari,CSE,Assistant Professor,24,Computer Networks
+14,Dr. K.V. Nagendra,CSE,Assistant Professor,24,Natural Language Processing
+15,Smt. V Priya Darshini,CSE,Assistant Professor,24,Professional Elective-I
+16,Dr. J Rajani Kanth,CSE,Assistant Professor,24,Open Elective-I
+17,Smt. P Neelima,CSE,Assistant Professor,24,Deep Learning Lab
+18,Sri. K V S S R Murthy,CSE,Assistant Professor,24,Natural Language Processing Lab
+19,Dr. R Shiva Shankar,CSE,Assistant Professor,24,Full Stack Development -2
+20,Sri. T V K P Prasad,CSE,Assistant Professor,24,Tinkering Lab
+21,Smt. D Hema Latha,CSE,Assistant Professor,24,Evaluation of Community Service Internship
+22,Sri. B N V Narasimha Raju,CSE,Assistant Professor,24,Natural Language Processing
+23,Smt. K. Sravani,CSE,Assistant Professor,24,Deep Learning
+24,Sri. V Dilip Kumar,CSE,Assistant Professor,24,Computer Networks
+25,Smt. M Jeevana Sujitha,CSE,Assistant Professor,24,Deep Learning 
+26,Smt. A L Lavanya,CSE,Assistant Professor,24,Professional Elective-I
+27,Sri. T Srinivasa Rao,CSE,Assistant Professor,24,Deep Learning Lab
+28,Sri. Ch Vinod Varma,CSE,Assistant Professor,24,Open Elective-I
+29,Sri. L V Srinivas,CSE,Assistant Professor,24,Natural Language Processing Lab
+30,Smt. V Anjani Kranthi,CSE,Assistant Professor,24,Full Stack Development -2
+31,Miss. M Janaki Devi,CSE,Assistant Professor,24,Tinkering Lab
+32,Sri. Ch Rami Naidu,CSE,Assistant Professor,24,Evaluation of Community Service Internship
+33,Smt. P Saroja,CSE,Assistant Professor,24,Deep Learning
+34,Smt. K V N Valli,CSE,Assistant Professor,24,Employability Skills
+35,Smt. P Jahnavi,CSE,Assistant Professor,24,Computer Networks
+36,Smt. B Mounika,CSE,Assistant Professor,24,Natural Language Processing
+37,Dr. D N S B Kavitha,CSE,Assistant Professor,24,Professional Elective-I
+38,Sri. D Sri Phanindra Varma,CSE,Assistant Professor,24,Open Elective-I
+39,Sri. M Kishore Varma,CSE,Assistant Professor,24,Deep Learning Lab
+40,Sri. K D V Pavan Kumar Varma,CSE,Assistant Professor,24,Natural Language Processing Lab
+41,Smt. K Durga Bhavani,CSE,Assistant Professor,24,Full Stack Development -2
+42,Sri. K Hari Krishna,CSE,Assistant Professor,24,Tinkering Lab
+43,Sri. K Gopala Varma,CSE,Assistant Professor,24,Evaluation of Community Service Internship
+44,Smt. A Neelima,CSE,Assistant Professor,24,Deep Learning
+45,Smt. M Sindhuri Suseela,CSE,Assistant Professor,24,Employability Skills
+46,Sri. Ch Raghuram,CSE,Assistant Professor,24,Computer Networks
+47,Dr. Ch Swaroop,CSE,Assistant Professor,24,Natural Language Processing
+48,Sri. D V S R K Raju,CSE,Assistant Professor,24,Professional Elective-I
+49,Miss. Ch Suma,CSE,Assistant Professor,24,Open Elective-I
+50,Smt. R Leela Jyothi,CSE,Assistant Professor,24,Deep Learning Lab
+51,Sri. S Suresh Kumar,CSE,Assistant Professor,24,Natural Language Processing Lab
+52,Dr. L Divya,CSE,Assistant Professor,24,Full Stack Development -2
+53,Sri. K P S Rama Krishna,CSE,Assistant Professor,24,Tinkering Lab
+54,Miss. G Bhanu Priya,CSE,Assistant Professor,24,Evaluation of Community Service Internship
+55,Miss. L Padma,CSE,Assistant Professor,24,Deep Learning
+56,Sri. M V V S Subrahmanyam,CSE,Assistant Professor,24,Employability Skills
+57,Smt. K.V.Mounika,CSE,Assistant Professor,24,Computer Networks
+58,Sri. K David Raju,CSE,Assistant Professor,24,Natural Language Processing
+59,Sri. J V Rama Kumar,CSE,Assistant Professor,24,Professional Elective-I
+60,Sri. D Srikar,CSE,Assistant Professor,24,Open Elective-I
+61,Sri. G Padma Rao,CSE,Assistant Professor,24,Deep Learning Lab
+62,Smt. T Rama Tulasi,CSE,Assistant Professor,24,Natural Language Processing Lab
+63,Smt. K Raja Rajeswari,CSE,Assistant Professor,24,Full Stack Development -2
+64,Smt. P Sandhya,CSE,Assistant Professor,24,Tinkering Lab
+65,Smt. B Rekha Madhavi,CSE,Assistant Professor,24,Deep Learning
+66,Smt. D Vasavi,CSE,Assistant Professor,24,Evaluation of Community Service Internship
+67,Sri. B Radha Krishna,CSE,Assistant Professor,24,Employability Skills
+68,Smt. K Amrutha,CSE,Assistant Professor,24,Computer Networks
+69,Miss. M Rama Rajeswari,CSE,Assistant Professor,24,Natural Language Processing
+70,Smt. M Sahaja,CSE,Assistant Professor,24,Professional Elective-I
+71,Smt. M. Prasanna Kumari,CSE,Assistant Professor,24,Open Elective-I
+72,Sri. V. Ajay Kumar,CSE,Assistant Professor,24,Deep Learning Lab
+73,Sri. P. Durga Prasad,CSE,Assistant Professor,24,Natural Language Processing Lab
+74,Sri. Shaik Yacoob,CSE,Assistant Professor,24,Full Stack Development -2
+75,Smt. G. Prasanthi,CSE,Assistant Professor,24,Tinkering Lab
+76,Sri. MVV Krishna,CSE,Assistant Professor,24,Deep Learning
+77,Smt. D.Haritha Priya,CSE,Assistant Professor,24,Evaluation of Community Service Internship
+78,Smt. G. Anusha,CSE,Assistant Professor,24,Employability Skills
+79,Smt. D. Sravani,CSE,Assistant Professor,24,Computer Networks
+80,Smt. P. Lavanya,CSE,Assistant Professor,24,Natural Language Processing
+81,Smt. N. Naga Soudhamani,CSE,Assistant Professor,24,Professional Elective-I
+82,Miss. Bh. Nandita Lakshmi,CSE,Assistant Professor,24,Deep Learning Lab
+83,Smt. A. Hima Bala Padmini,CSE,Assistant Professor,24,Open Elective-I

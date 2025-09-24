@@ -1,0 +1,2157 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-23T22:40:32.093156",
+    "nep_2020_compliant": true,
+    "total_sections": 3,
+    "working_days": 5,
+    "periods_per_day": 5,
+    "time_slots": [
+      "09:00-10:30",
+      "10:30-12:00",
+      "12:00-01:30",
+      "01:30-03:00",
+      "03:00-04:30"
+    ],
+    "college_hours": "9:00 - 4:30",
+    "special_features": [
+      "Multi-section conflict resolution",
+      "Lab courses: 3-hour continuous sessions",
+      "PE/OE synchronized across all sections",
+      "Theory courses: 2 sessions per week",
+      "NEP 2020 compliant structure"
+    ]
+  },
+  "timetables": {
+    "AI & ML Semester 5 - Section A": {
+      "batch_info": {
+        "name": "AI & ML Semester 5 - Section A",
+        "department": "Artificial Intelligence and Machine Learning",
+        "semester": 5,
+        "student_count": 16
+      },
+      "weekly_schedule": [
+        {
+          "day": "Monday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "B23AM3112",
+                "name": "Full Stack Development -2",
+                "code": "B23AM3112",
+                "type": "core",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "4",
+                "name": "Dr. K V Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 1,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3112",
+                "name": "Full Stack Development -2",
+                "code": "B23AM3112",
+                "type": "core",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "4",
+                "name": "Dr. K V Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 2,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23AM3114",
+                "name": "Evaluation of Community Service Internship",
+                "code": "B23AM3114",
+                "type": "project",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "8",
+                "name": "Dr. R N V Jagan Mohan",
+                "designation": "Associate Professor"
+              },
+              "classroom": {
+                "id": "C102",
+                "name": "C102",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "type": "free"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "B23AM3111",
+                "name": "Natural Language Processing Lab",
+                "code": "B23AM3111",
+                "type": "skill_enhancement",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "2",
+                "name": "Dr. Bh V S Rama Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 1,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3111",
+                "name": "Natural Language Processing Lab",
+                "code": "B23AM3111",
+                "type": "skill_enhancement",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "2",
+                "name": "Dr. Bh V S Rama Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 2,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23MC3101",
+                "name": "Employability Skills",
+                "code": "B23MC3101",
+                "type": "multidisciplinary",
+                "credits": 0,
+                "department": "General",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "8",
+                "name": "Dr. R N V Jagan Mohan",
+                "designation": "Associate Professor"
+              },
+              "classroom": {
+                "id": "C102",
+                "name": "C102",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23AM3101",
+                "name": "Deep Learning",
+                "code": "B23AM3101",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C102",
+                "name": "C102",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "B23AM3110",
+                "name": "Deep Learning Lab",
+                "code": "B23AM3110",
+                "type": "core",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 1,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3110",
+                "name": "Deep Learning Lab",
+                "code": "B23AM3110",
+                "type": "core",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 2,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "OE_I_A",
+                "name": "Open Elective I - Section A",
+                "code": "OE_I_A",
+                "type": "elective",
+                "credits": 3,
+                "department": "General",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "6",
+                "name": "Dr. V Chandra Sekhar",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": true,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23MC3101",
+                "name": "Employability Skills",
+                "code": "B23MC3101",
+                "type": "multidisciplinary",
+                "credits": 0,
+                "department": "General",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "8",
+                "name": "Dr. R N V Jagan Mohan",
+                "designation": "Associate Professor"
+              },
+              "classroom": {
+                "id": "C102",
+                "name": "C102",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "B23AM3101",
+                "name": "Deep Learning",
+                "code": "B23AM3101",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C103",
+                "name": "C103",
+                "type": "lecture",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3103",
+                "name": "Natural Language Processing",
+                "code": "B23AM3103",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "2",
+                "name": "Dr. Bh V S Rama Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23AM3114",
+                "name": "Evaluation of Community Service Internship",
+                "code": "B23AM3114",
+                "type": "project",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "8",
+                "name": "Dr. R N V Jagan Mohan",
+                "designation": "Associate Professor"
+              },
+              "classroom": {
+                "id": "C103",
+                "name": "C103",
+                "type": "lecture",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23AM3102",
+                "name": "Computer Networks",
+                "code": "B23AM3102",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "3",
+                "name": "Dr. M S V S Bhadri Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C103",
+                "name": "C103",
+                "type": "lecture",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "B23AM3103",
+                "name": "Natural Language Processing",
+                "code": "B23AM3103",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "2",
+                "name": "Dr. Bh V S Rama Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3102",
+                "name": "Computer Networks",
+                "code": "B23AM3102",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "3",
+                "name": "Dr. M S V S Bhadri Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C102",
+                "name": "C102",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23AM3113",
+                "name": "Tinkering Lab (UI Design using Flutter)",
+                "code": "B23AM3113",
+                "type": "skill_enhancement",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "4",
+                "name": "Dr. K V Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 1,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23AM3113",
+                "name": "Tinkering Lab (UI Design using Flutter)",
+                "code": "B23AM3113",
+                "type": "skill_enhancement",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "4",
+                "name": "Dr. K V Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 2,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "AI & ML Semester 5 - Section B": {
+      "batch_info": {
+        "name": "AI & ML Semester 5 - Section B",
+        "department": "Artificial Intelligence and Machine Learning",
+        "semester": 5,
+        "student_count": 16
+      },
+      "weekly_schedule": [
+        {
+          "day": "Monday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "B23AM3110",
+                "name": "Deep Learning Lab",
+                "code": "B23AM3110",
+                "type": "core",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G02",
+                "name": "Computer Lab 2",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 1,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3110",
+                "name": "Deep Learning Lab",
+                "code": "B23AM3110",
+                "type": "core",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G02",
+                "name": "Computer Lab 2",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 2,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23AM3102",
+                "name": "Computer Networks",
+                "code": "B23AM3102",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "3",
+                "name": "Dr. M S V S Bhadri Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23AM3101",
+                "name": "Deep Learning",
+                "code": "B23AM3101",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "PE_I_B",
+                "name": "Professional Elective I - Section B",
+                "code": "PE_I_B",
+                "type": "elective",
+                "credits": 3,
+                "department": "General",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "5",
+                "name": "Dr. G Mahesh",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C102",
+                "name": "C102",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": true,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3102",
+                "name": "Computer Networks",
+                "code": "B23AM3102",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "3",
+                "name": "Dr. M S V S Bhadri Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23AM3111",
+                "name": "Natural Language Processing Lab",
+                "code": "B23AM3111",
+                "type": "skill_enhancement",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "2",
+                "name": "Dr. Bh V S Rama Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G02",
+                "name": "Computer Lab 2",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 1,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23AM3111",
+                "name": "Natural Language Processing Lab",
+                "code": "B23AM3111",
+                "type": "skill_enhancement",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "2",
+                "name": "Dr. Bh V S Rama Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G02",
+                "name": "Computer Lab 2",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 2,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "type": "free"
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3114",
+                "name": "Evaluation of Community Service Internship",
+                "code": "B23AM3114",
+                "type": "project",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "8",
+                "name": "Dr. R N V Jagan Mohan",
+                "designation": "Associate Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "OE_I_B",
+                "name": "Open Elective I - Section B",
+                "code": "OE_I_B",
+                "type": "elective",
+                "credits": 3,
+                "department": "General",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "6",
+                "name": "Dr. V Chandra Sekhar",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C102",
+                "name": "C102",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": true,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23AM3103",
+                "name": "Natural Language Processing",
+                "code": "B23AM3103",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "2",
+                "name": "Dr. Bh V S Rama Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "B23MC3101",
+                "name": "Employability Skills",
+                "code": "B23MC3101",
+                "type": "multidisciplinary",
+                "credits": 0,
+                "department": "General",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "8",
+                "name": "Dr. R N V Jagan Mohan",
+                "designation": "Associate Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "type": "free"
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23AM3101",
+                "name": "Deep Learning",
+                "code": "B23AM3101",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23AM3103",
+                "name": "Natural Language Processing",
+                "code": "B23AM3103",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "2",
+                "name": "Dr. Bh V S Rama Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "B23AM3113",
+                "name": "Tinkering Lab (UI Design using Flutter)",
+                "code": "B23AM3113",
+                "type": "skill_enhancement",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "4",
+                "name": "Dr. K V Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 1,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3113",
+                "name": "Tinkering Lab (UI Design using Flutter)",
+                "code": "B23AM3113",
+                "type": "skill_enhancement",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "4",
+                "name": "Dr. K V Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 2,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23AM3114",
+                "name": "Evaluation of Community Service Internship",
+                "code": "B23AM3114",
+                "type": "project",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "8",
+                "name": "Dr. R N V Jagan Mohan",
+                "designation": "Associate Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23MC3101",
+                "name": "Employability Skills",
+                "code": "B23MC3101",
+                "type": "multidisciplinary",
+                "credits": 0,
+                "department": "General",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "8",
+                "name": "Dr. R N V Jagan Mohan",
+                "designation": "Associate Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "AI & ML Semester 5 - Section C": {
+      "batch_info": {
+        "name": "AI & ML Semester 5 - Section C",
+        "department": "Artificial Intelligence and Machine Learning",
+        "semester": 5,
+        "student_count": 16
+      },
+      "weekly_schedule": [
+        {
+          "day": "Monday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "B23MC3101",
+                "name": "Employability Skills",
+                "code": "B23MC3101",
+                "type": "multidisciplinary",
+                "credits": 0,
+                "department": "General",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "8",
+                "name": "Dr. R N V Jagan Mohan",
+                "designation": "Associate Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3114",
+                "name": "Evaluation of Community Service Internship",
+                "code": "B23AM3114",
+                "type": "project",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "8",
+                "name": "Dr. R N V Jagan Mohan",
+                "designation": "Associate Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23AM3111",
+                "name": "Natural Language Processing Lab",
+                "code": "B23AM3111",
+                "type": "skill_enhancement",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "2",
+                "name": "Dr. Bh V S Rama Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 1,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23AM3111",
+                "name": "Natural Language Processing Lab",
+                "code": "B23AM3111",
+                "type": "skill_enhancement",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "2",
+                "name": "Dr. Bh V S Rama Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 2,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "B23AM3113",
+                "name": "Tinkering Lab (UI Design using Flutter)",
+                "code": "B23AM3113",
+                "type": "skill_enhancement",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "4",
+                "name": "Dr. K V Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G02",
+                "name": "Computer Lab 2",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 1,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3113",
+                "name": "Tinkering Lab (UI Design using Flutter)",
+                "code": "B23AM3113",
+                "type": "skill_enhancement",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "4",
+                "name": "Dr. K V Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G02",
+                "name": "Computer Lab 2",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 2,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23AM3102",
+                "name": "Computer Networks",
+                "code": "B23AM3102",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "3",
+                "name": "Dr. M S V S Bhadri Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23MC3101",
+                "name": "Employability Skills",
+                "code": "B23MC3101",
+                "type": "multidisciplinary",
+                "credits": 0,
+                "department": "General",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "8",
+                "name": "Dr. R N V Jagan Mohan",
+                "designation": "Associate Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "B23AM3112",
+                "name": "Full Stack Development -2",
+                "code": "B23AM3112",
+                "type": "core",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "4",
+                "name": "Dr. K V Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G02",
+                "name": "Computer Lab 2",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 1,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3112",
+                "name": "Full Stack Development -2",
+                "code": "B23AM3112",
+                "type": "core",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "4",
+                "name": "Dr. K V Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G02",
+                "name": "Computer Lab 2",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 2,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23AM3110",
+                "name": "Deep Learning Lab",
+                "code": "B23AM3110",
+                "type": "core",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 1,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23AM3110",
+                "name": "Deep Learning Lab",
+                "code": "B23AM3110",
+                "type": "core",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": true
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "LAB-G01",
+                "name": "Computer Lab 1",
+                "type": "computer_lab",
+                "capacity": 40
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": true
+              },
+              "lab_session": {
+                "part": 2,
+                "total_parts": 2,
+                "is_continuous": true
+              }
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "course": {
+                "id": "B23AM3102",
+                "name": "Computer Networks",
+                "code": "B23AM3102",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "3",
+                "name": "Dr. M S V S Bhadri Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C102",
+                "name": "C102",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "10:30-12:00",
+              "type": "free"
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23AM3103",
+                "name": "Natural Language Processing",
+                "code": "B23AM3103",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "2",
+                "name": "Dr. Bh V S Rama Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C102",
+                "name": "C102",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23AM3101",
+                "name": "Deep Learning",
+                "code": "B23AM3101",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C102",
+                "name": "C102",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "periods": [
+            {
+              "time": "09:00-10:30",
+              "type": "free"
+            },
+            {
+              "time": "10:30-12:00",
+              "course": {
+                "id": "B23AM3114",
+                "name": "Evaluation of Community Service Internship",
+                "code": "B23AM3114",
+                "type": "project",
+                "credits": 1,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "8",
+                "name": "Dr. R N V Jagan Mohan",
+                "designation": "Associate Professor"
+              },
+              "classroom": {
+                "id": "C101",
+                "name": "C101",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "12:00-01:30",
+              "type": "lunch_break"
+            },
+            {
+              "time": "01:30-03:00",
+              "course": {
+                "id": "B23AM3103",
+                "name": "Natural Language Processing",
+                "code": "B23AM3103",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "2",
+                "name": "Dr. Bh V S Rama Krishnam Raju",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C102",
+                "name": "C102",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            },
+            {
+              "time": "03:00-04:30",
+              "course": {
+                "id": "B23AM3101",
+                "name": "Deep Learning",
+                "code": "B23AM3101",
+                "type": "core",
+                "credits": 3,
+                "department": "Artificial Intelligence and Machine Learning",
+                "is_lab": false
+              },
+              "faculty": {
+                "id": "1",
+                "name": "Dr P Ravi Kiran Varma",
+                "designation": "Professor"
+              },
+              "classroom": {
+                "id": "C102",
+                "name": "C102",
+                "type": "smart_classroom",
+                "capacity": 70
+              },
+              "section_specific": {
+                "is_synchronized": false,
+                "is_lab_session": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "conflict_analysis": {
+    "faculty_conflicts": 1,
+    "room_conflicts": 0,
+    "lab_assignment_issues": 1,
+    "pe_oe_sync_issues": 0,
+    "overall_fitness": 20.0
+  },
+  "synchronized_courses": {
+    "Wednesday_01:30-03:00": [
+      {
+        "section": "AI & ML Semester 5 - Section A",
+        "course": "OE_I_A",
+        "faculty": "Dr. V Chandra Sekhar"
+      },
+      {
+        "section": "AI & ML Semester 5 - Section B",
+        "course": "OE_I_B",
+        "faculty": "Dr. V Chandra Sekhar"
+      }
+    ],
+    "Tuesday_09:00-10:30": [
+      {
+        "section": "AI & ML Semester 5 - Section B",
+        "course": "PE_I_B",
+        "faculty": "Dr. G Mahesh"
+      }
+    ]
+  },
+  "lab_scheduling_summary": {
+    "AI & ML Semester 5 - Section A": {
+      "assigned_labs": [
+        {
+          "course_id": "B23AM3112",
+          "course_name": "Full Stack Development -2",
+          "day": "Monday",
+          "time": "09:00-10:30",
+          "duration_periods": 2,
+          "room": "Computer Lab 1",
+          "room_type": "computer_lab"
+        },
+        {
+          "course_id": "B23AM3111",
+          "course_name": "Natural Language Processing Lab",
+          "day": "Tuesday",
+          "time": "09:00-10:30",
+          "duration_periods": 2,
+          "room": "Computer Lab 1",
+          "room_type": "computer_lab"
+        },
+        {
+          "course_id": "B23AM3110",
+          "course_name": "Deep Learning Lab",
+          "day": "Wednesday",
+          "time": "09:00-10:30",
+          "duration_periods": 2,
+          "room": "Computer Lab 1",
+          "room_type": "computer_lab"
+        },
+        {
+          "course_id": "B23AM3113",
+          "course_name": "Tinkering Lab (UI Design using Flutter)",
+          "day": "Friday",
+          "time": "01:30-03:00",
+          "duration_periods": 2,
+          "room": "Computer Lab 1",
+          "room_type": "computer_lab"
+        }
+      ],
+      "total_lab_hours": 12.0
+    },
+    "AI & ML Semester 5 - Section B": {
+      "assigned_labs": [
+        {
+          "course_id": "B23AM3110",
+          "course_name": "Deep Learning Lab",
+          "day": "Monday",
+          "time": "09:00-10:30",
+          "duration_periods": 2,
+          "room": "Computer Lab 2",
+          "room_type": "computer_lab"
+        },
+        {
+          "course_id": "B23AM3111",
+          "course_name": "Natural Language Processing Lab",
+          "day": "Tuesday",
+          "time": "01:30-03:00",
+          "duration_periods": 2,
+          "room": "Computer Lab 2",
+          "room_type": "computer_lab"
+        },
+        {
+          "course_id": "B23AM3113",
+          "course_name": "Tinkering Lab (UI Design using Flutter)",
+          "day": "Friday",
+          "time": "09:00-10:30",
+          "duration_periods": 2,
+          "room": "Computer Lab 1",
+          "room_type": "computer_lab"
+        }
+      ],
+      "total_lab_hours": 9.0
+    },
+    "AI & ML Semester 5 - Section C": {
+      "assigned_labs": [
+        {
+          "course_id": "B23AM3111",
+          "course_name": "Natural Language Processing Lab",
+          "day": "Monday",
+          "time": "01:30-03:00",
+          "duration_periods": 2,
+          "room": "Computer Lab 1",
+          "room_type": "computer_lab"
+        },
+        {
+          "course_id": "B23AM3113",
+          "course_name": "Tinkering Lab (UI Design using Flutter)",
+          "day": "Tuesday",
+          "time": "09:00-10:30",
+          "duration_periods": 2,
+          "room": "Computer Lab 2",
+          "room_type": "computer_lab"
+        },
+        {
+          "course_id": "B23AM3112",
+          "course_name": "Full Stack Development -2",
+          "day": "Wednesday",
+          "time": "09:00-10:30",
+          "duration_periods": 2,
+          "room": "Computer Lab 2",
+          "room_type": "computer_lab"
+        },
+        {
+          "course_id": "B23AM3110",
+          "course_name": "Deep Learning Lab",
+          "day": "Wednesday",
+          "time": "01:30-03:00",
+          "duration_periods": 2,
+          "room": "Computer Lab 1",
+          "room_type": "computer_lab"
+        }
+      ],
+      "total_lab_hours": 12.0
+    }
+  },
+  "analytics": {
+    "overall_fitness": 20.0,
+    "section_summaries": {
+      "AI & ML Semester 5 - Section A": {
+        "total_sessions": 19,
+        "lab_sessions": 8,
+        "theory_sessions": 11,
+        "synchronized_sessions": 1,
+        "course_distribution": {
+          "B23AM3112": 2,
+          "B23AM3114": 2,
+          "B23AM3111": 2,
+          "B23MC3101": 2,
+          "B23AM3101": 2,
+          "B23AM3110": 2,
+          "OE_I_A": 1,
+          "B23AM3103": 2,
+          "B23AM3102": 2,
+          "B23AM3113": 2
+        }
+      },
+      "AI & ML Semester 5 - Section B": {
+        "total_sessions": 18,
+        "lab_sessions": 6,
+        "theory_sessions": 12,
+        "synchronized_sessions": 2,
+        "course_distribution": {
+          "B23AM3110": 2,
+          "B23AM3102": 2,
+          "B23AM3101": 2,
+          "PE_I_B": 1,
+          "B23AM3111": 2,
+          "B23AM3114": 2,
+          "OE_I_B": 1,
+          "B23AM3103": 2,
+          "B23MC3101": 2,
+          "B23AM3113": 2
+        }
+      },
+      "AI & ML Semester 5 - Section C": {
+        "total_sessions": 18,
+        "lab_sessions": 8,
+        "theory_sessions": 10,
+        "synchronized_sessions": 0,
+        "course_distribution": {
+          "B23MC3101": 2,
+          "B23AM3114": 2,
+          "B23AM3111": 2,
+          "B23AM3113": 2,
+          "B23AM3102": 2,
+          "B23AM3112": 2,
+          "B23AM3110": 2,
+          "B23AM3103": 2,
+          "B23AM3101": 2
+        }
+      }
+    },
+    "lab_scheduling_stats": {
+      "total_lab_courses": 12,
+      "successfully_scheduled_labs": 11,
+      "lab_rooms_utilized": 2,
+      "afternoon_lab_sessions": 8
+    },
+    "synchronization_stats": {
+      "pe_synchronized": true,
+      "oe_synchronized": true,
+      "pe_sections_count": 1,
+      "oe_sections_count": 2
+    },
+    "course_frequency_analysis": {
+      "B23AM3101": {
+        "expected": 2,
+        "actual": {
+          "AIML_S5_A": 2,
+          "AIML_S5_B": 2,
+          "AIML_S5_C": 2
+        },
+        "compliant": true
+      },
+      "B23AM3102": {
+        "expected": 2,
+        "actual": {
+          "AIML_S5_A": 2,
+          "AIML_S5_B": 2,
+          "AIML_S5_C": 2
+        },
+        "compliant": true
+      },
+      "B23AM3103": {
+        "expected": 2,
+        "actual": {
+          "AIML_S5_A": 2,
+          "AIML_S5_B": 2,
+          "AIML_S5_C": 2
+        },
+        "compliant": true
+      },
+      "PE_I_A": {
+        "expected": 2,
+        "actual": {
+          "AIML_S5_A": 0,
+          "AIML_S5_B": 0,
+          "AIML_S5_C": 0
+        },
+        "compliant": false
+      },
+      "PE_I_B": {
+        "expected": 2,
+        "actual": {
+          "AIML_S5_A": 0,
+          "AIML_S5_B": 1,
+          "AIML_S5_C": 0
+        },
+        "compliant": false
+      },
+      "PE_I_C": {
+        "expected": 2,
+        "actual": {
+          "AIML_S5_A": 0,
+          "AIML_S5_B": 0,
+          "AIML_S5_C": 0
+        },
+        "compliant": false
+      },
+      "OE_I_A": {
+        "expected": 2,
+        "actual": {
+          "AIML_S5_A": 1,
+          "AIML_S5_B": 0,
+          "AIML_S5_C": 0
+        },
+        "compliant": false
+      },
+      "OE_I_B": {
+        "expected": 2,
+        "actual": {
+          "AIML_S5_A": 0,
+          "AIML_S5_B": 1,
+          "AIML_S5_C": 0
+        },
+        "compliant": false
+      },
+      "OE_I_C": {
+        "expected": 2,
+        "actual": {
+          "AIML_S5_A": 0,
+          "AIML_S5_B": 0,
+          "AIML_S5_C": 0
+        },
+        "compliant": false
+      },
+      "B23AM3110": {
+        "expected": 1,
+        "actual": {
+          "AIML_S5_A": 2,
+          "AIML_S5_B": 2,
+          "AIML_S5_C": 2
+        },
+        "compliant": false
+      },
+      "B23AM3111": {
+        "expected": 1,
+        "actual": {
+          "AIML_S5_A": 2,
+          "AIML_S5_B": 2,
+          "AIML_S5_C": 2
+        },
+        "compliant": false
+      },
+      "B23AM3112": {
+        "expected": 1,
+        "actual": {
+          "AIML_S5_A": 2,
+          "AIML_S5_B": 0,
+          "AIML_S5_C": 2
+        },
+        "compliant": false
+      },
+      "B23AM3113": {
+        "expected": 1,
+        "actual": {
+          "AIML_S5_A": 2,
+          "AIML_S5_B": 2,
+          "AIML_S5_C": 2
+        },
+        "compliant": false
+      },
+      "B23AM3114": {
+        "expected": 2,
+        "actual": {
+          "AIML_S5_A": 2,
+          "AIML_S5_B": 2,
+          "AIML_S5_C": 2
+        },
+        "compliant": true
+      },
+      "B23MC3101": {
+        "expected": 2,
+        "actual": {
+          "AIML_S5_A": 2,
+          "AIML_S5_B": 2,
+          "AIML_S5_C": 2
+        },
+        "compliant": true
+      }
+    }
+  }
+}

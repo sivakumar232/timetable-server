@@ -1,0 +1,43 @@
+{
+  "student_batches": [
+    {
+      "id": "AIML_S5_A",
+      "name": "AI & ML Semester 5 - Section A",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 16,
+      "core_courses": ["B23AM3101", "B23AM3102", "B23AM3103", "B23AM3110", "B23AM3112"],
+      "elective_courses": ["PE_I_A", "OE_I_A"],
+      "skill_courses": ["B23AM3111", "B23AM3113"],
+      "multidisciplinary_courses": ["B23AM3114", "B23MC3101"],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    },
+    {
+      "id": "AIML_S5_B",
+      "name": "AI & ML Semester 5 - Section B",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 16,
+      "core_courses": ["B23AM3101", "B23AM3102", "B23AM3103", "B23AM3110", "B23AM3112"],
+      "elective_courses": ["PE_I_B", "OE_I_B"],
+      "skill_courses": ["B23AM3111", "B23AM3113"],
+      "multidisciplinary_courses": ["B23AM3114", "B23MC3101"],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    },
+    {
+      "id": "AIML_S5_C",
+      "name": "AI & ML Semester 5 - Section C",
+      "department": "Artificial Intelligence and Machine Learning",
+      "semester": 5,
+      "student_count": 16,
+      "core_courses": ["B23AM3101", "B23AM3102", "B23AM3103", "B23AM3110", "B23AM3112"],
+      "elective_courses": ["PE_I_C", "OE_I_C"],
+      "skill_courses": ["B23AM3111", "B23AM3113"],
+      "multidisciplinary_courses": ["B23AM3114", "B23MC3101"],
+      "preferred_morning_hours": true,
+      "max_hours_per_day": 7
+    }
+  ]
+}
